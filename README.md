@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning machine Learning
 - 💞️ I’m looking to collaborate on on Big data projects
 - 📫 How to reach me seiff.aly@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Seif-Ali-Mohamed/Seif-Ali-Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
